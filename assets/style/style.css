@@ -1,0 +1,14 @@
+#hero-section h5 {
+  color: red;
+}
+
+#hero-section img {
+  height: 550px;
+}
+
+#image-slider .item img {
+  height: 350px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+/*# sourceMappingURL=style.css.map */
